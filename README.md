@@ -23,8 +23,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/PureDreamerGk/codepath_week3/blob/main/r1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+![](https://github.com/PureDreamerGk/codepath_week5/blob/main/r1.gif)
 
 Here's a walkthrough of signing up new user:
 
-<img src= 'https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/90635036-9710-4503-90ec-f6f2104da5ac.gif?ClientID=vimeo-core-prod&Date=1646451377&Signature=89af5343548d620c146e0e679c893b0ae5935a23' title='Video Walkthrough' width='' alt='Video Walkthrough' / />
+![](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/90635036-9710-4503-90ec-f6f2104da5ac.gif?ClientID=vimeo-core-prod&Date=1646451377&Signature=89af5343548d620c146e0e679c893b0ae5935a23)
