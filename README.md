@@ -29,3 +29,33 @@ Here's a walkthrough of implemented user stories:
 Here's a walkthrough of signing up new user:
 
 ![](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/90635036-9710-4503-90ec-f6f2104da5ac.gif?ClientID=vimeo-core-prod&Date=1646451377&Signature=89af5343548d620c146e0e679c893b0ae5935a23)
+
+
+# Parstagram - Part II
+
+This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
+
+Time spent: **X** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User stays logged in across restarts. (1pt)
+- [x] User can log out. (1pt)
+- [x] User can view comments on a post. (3pts)
+- [x] User can add a new comment. (5pts)
+
+The following **bonus** features are implemented:
+
+- [ ] User can add a profile picture. (2pts)
+- [ ] Profile pictures are shown for posts and comments. (2pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+ere's a walkthrough of implemented user stories:
+
+
+![](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/0d16215c-350e-458e-ae84-65ca247377d7.gif?ClientID=vimeo-core-prod&Date=1647067603&Signature=e8a567ed3d569087d9a905cae146b7f0c163d619)
