@@ -54,8 +54,9 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/68a92b9a-85f7-463f-b20e-c514644ee1bb.gif?ClientID=vimeo-core-prod&Date=1647568610&Signature=c072382df899cc1f08c83fdb273f8f6c4c7d5e77)
 
-ere's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories:
 
 
 ![](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/0d16215c-350e-458e-ae84-65ca247377d7.gif?ClientID=vimeo-core-prod&Date=1647067603&Signature=e8a567ed3d569087d9a905cae146b7f0c163d619)
